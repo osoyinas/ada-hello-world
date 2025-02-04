@@ -8,6 +8,4 @@
 # Ada Library Information
 *.ali
 
-.objs/*
-
 # End of https://www.toptal.com/developers/gitignore/api/ada
