@@ -1,0 +1,7 @@
+{
+    "ada.projectFile": "hello_world.gpr",
+    "ada.gprQuery": "gprquery",
+    "ada.enableAdaLSP": true,
+    "ada.gprBuild": "gprbuild"
+  }
+  
